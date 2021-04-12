@@ -1,0 +1,13 @@
+{
+  "notebooks": {
+    "python-problem-solving-template.ipynb": {
+      "slug": "aakashns/python-problem-solving-template"
+    },
+    "removing-duplicates-from-sorted-array.ipynb": {
+      "slug": "d6fb0b54c84040b2b45e9d1386b1b37f"
+    },
+    "max-profit-with-k-transactions.ipynb": {
+      "slug": "75c00baaf49e41d89979b08673c037d3"
+    }
+  }
+}

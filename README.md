@@ -5,6 +5,8 @@ In this project I apply some dynamic programming techniques in order to solve th
 
 In order to view the project simply open the jupyter notebook max-profit-with-k-transactions.ipynb, everything else is explained within it.
 
+However if GitHub refuses to render the notebook, you may view it at this [NBVIEWER LINK](https://nbviewer.jupyter.org/github/JustCallMeRob/most-profit-with-k-transactions/blob/main/max-profit-with-k-transactions.ipynb)
+
 This project represents the capstone project for the online course on [Data Structures and Algorithms in Python](https://jovian.ai/learn/data-structures-and-algorithms-in-python)
 provided by Jovian.ml.
 
